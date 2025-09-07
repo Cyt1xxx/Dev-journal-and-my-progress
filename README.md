@@ -30,3 +30,14 @@ Previous dev.journal was in my diary , written by hand.
 1) Unfortunaly, no code today , was existed about cyber security topics such as: XSS , WAF , how to prevent abusing your API for malicious tasks, refactored code a bit , there was a critical error with While loop in coroutine + prevent db blocking and working with each task with asyncio.Lock in software.
 2) Didn`t finish Proxy manage , a bit of bored and lazy today
 3) I explored a lot new info that can help me in buildings my API`s and providing them security , noticied critical errors
+
+06.09.2025(3 h)
+1) Today was 1 launch of my software, all worked pretty good, but was several bugs , fixed it then make some refactors with db logic and added some features in scraper and all software , now there are more parametrs in config to set such as MAX_URL_TO_SKAN , when soft raises this page it stoppes the while loop.
+Was thinking about further architecture of software , deployment , features , UI. Finally, came to decission.
+2) All good , but I can spend more time coding.
+3) Fixed all bugs very quickly
+
+07.09.2025(6h)
+1) Again was thinking about containerization, tested my code again, explored log`s from logging results. Started learning about Docker , watched tutorial video, set up docker , WSL , did docker guide tasks, using their code examples.
+2) Didn`t write code at all , could do programming more
+3) Explored a lot of about docker , it is new tool for me, will set up to my project in few days
