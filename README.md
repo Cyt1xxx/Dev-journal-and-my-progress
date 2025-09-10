@@ -41,3 +41,13 @@ Was thinking about further architecture of software , deployment , features , UI
 1) Again was thinking about containerization, tested my code again, explored log`s from logging results. Started learning about Docker , watched tutorial video, set up docker , WSL , did docker guide tasks, using their code examples.
 2) Didn`t write code at all , could do programming more
 3) Explored a lot of about docker , it is new tool for me, will set up to my project in few days
+
+08.09.2025(5h)
+1) Was exploring what the docker is. Whatched getting start videos, downloaded docker , did some tutorial tasks for beginners. Changed time in my software to unix format, read how sqlite interracts with datetime, eventually found that it hasn`t datetime type of data in columns, fixed bugs
+2) Doomscrolled a bit and watched social media during coding process
+3) Did everything what planned for day
+
+09.09.2025(6 h)
+1) Whole day was reading docs about docker. Understand what is image, container, docker daemon , how it is structured, that it uses linux kernel, how does it interact with other docker parst using REST API structure, docker compose (multi containers) ,layers , why it is memory efficient. Started doing dockerfile in my project
+2) Could do more, didn`t fixed some bugs in code , still need refactor.
+3) Well done theory learning.
