@@ -1,5 +1,5 @@
 # Dev-journal-and-my-progress
-Keeping working to improve myself at programmin , posting my results of studying sessions particulary every day.
+Keeping working to improve myself at programming , posting my results of studying sessions particulary every day.
 Previous dev.journal was in my diary , written by hand.
 1 - everything what i did during a day
 2 - struggles , problems , or some distractions
@@ -51,3 +51,8 @@ Was thinking about further architecture of software , deployment , features , UI
 1) Whole day was reading docs about docker. Understand what is image, container, docker daemon , how it is structured, that it uses linux kernel, how does it interact with other docker parst using REST API structure, docker compose (multi containers) ,layers , why it is memory efficient. Started doing dockerfile in my project
 2) Could do more, didn`t fixed some bugs in code , still need refactor.
 3) Well done theory learning.
+
+10.09.2025(6-7h)
+1) Watched video about difference mutable and immutable objects, compared it with Docker layers, refactored code, added argparse object + importlib to use dynamic module loading for universal structure to imlement it to docker, started refactoring code with oop
+2) May be could do more coding rather then watching a video`s, but anyway it was helpful, not all , but many
+3) Was focused, didn`t get distracted
