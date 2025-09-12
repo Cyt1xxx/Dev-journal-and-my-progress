@@ -56,3 +56,8 @@ Was thinking about further architecture of software , deployment , features , UI
 1) Watched video about difference mutable and immutable objects, compared it with Docker layers, refactored code, added argparse object + importlib to use dynamic module loading for universal structure to imlement it to docker, started refactoring code with oop
 2) May be could do more coding rather then watching a video`s, but anyway it was helpful, not all , but many
 3) Was focused, didn`t get distracted
+
+11.09.2025(6h)
+1) Refactored whole code with OOP classes , understand what self in OOP init method is, repeated encapsulation in OOP, implemented dynamic loading of modules, watched video about when to use OOP , when functions, started building Docker file
+2) May be I could do the better readablity of code, as I added OOP classes here became more places to work with
+3) Eventually mastered in practise OOP classes , correctly done dynamic loading.
