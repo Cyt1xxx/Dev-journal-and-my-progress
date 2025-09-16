@@ -61,3 +61,9 @@ Was thinking about further architecture of software , deployment , features , UI
 1) Refactored whole code with OOP classes , understand what self in OOP init method is, repeated encapsulation in OOP, implemented dynamic loading of modules, watched video about when to use OOP , when functions, started building Docker file
 2) May be I could do the better readablity of code, as I added OOP classes here became more places to work with
 3) Eventually mastered in practise OOP classes , correctly done dynamic loading.
+
+12.09.2025-15.09.2025(didn't log my progress due to family circumstances, sorry, i coded this days but fewer) 
+1) All in all what I've done this days: build Dockerfile , started exploring network low level principles inside the container, see what volume in docker is, was getting into SOLID and practising OOP approach except functional that I've always used to follow. Started building new project of scraper with framework,
+rebuilt exsisting architecture
+2) Didn't have enought time for coding , worked 3-4 h per day
+3) Understood importance of OOP , readable, maintainable code in application. Got into OOP , I didn't understand it so good before and used
