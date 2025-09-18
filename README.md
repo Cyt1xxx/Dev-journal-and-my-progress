@@ -67,3 +67,14 @@ Was thinking about further architecture of software , deployment , features , UI
 rebuilt exsisting architecture
 2) Didn't have enought time for coding , worked 3-4 h per day
 3) Understood importance of OOP , readable, maintainable code in application. Got into OOP , I didn't understand it so good before and used
+
+16.09.2025(6-7h)
+1) Started implementing SOLID principles to main softwarer, refactor fetcher module using class approach, learned about usage abstract classes and methods and encapsulation.
+Refactored API sending classes with knowledge of Inheritance , Dependency injection , open|closed , single responsibility principles and repeated usage of *args , **kwargs 
+3) Was hard understanding OOP approach as I never used it before just theory.
+4) Glad to practise new more robust and scalable approach
+
+17.09.2025(4-5h)
+1) Explored Inheritance\polymorphism usage in theory, classmethods, staticmethods , wrappers , composition , class variables. Refactored a bit db logic classes.
+2) Few practise and was unaware to make changes, didn't know how to implement changes.
+3) Finally understood and explored wrappers
