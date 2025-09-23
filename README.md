@@ -78,3 +78,6 @@ Refactored API sending classes with knowledge of Inheritance , Dependency inject
 1) Explored Inheritance\polymorphism usage in theory, classmethods, staticmethods , wrappers , composition , class variables. Refactored a bit db logic classes.
 2) Few practise and was unaware to make changes, didn't know how to implement changes.
 3) Finally understood and explored wrappers
+
+18.09.2025-24.09.2025
+Was in vacation during this time lapse. Did some small refactoring before trip
