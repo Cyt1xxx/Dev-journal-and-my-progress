@@ -81,3 +81,8 @@ Refactored API sending classes with knowledge of Inheritance , Dependency inject
 
 18.09.2025-24.09.2025
 Was in vacation during this time lapse. Did some small refactoring before trip
+
+25.09.2025(6h)
+1. Was refactoring DB logic with SOLID principles anc OOP approach. Fully understand how actually decorator work's, practised ABC , Inheritance, learned about Dependency Injection, practised interface segregation principle.
+2. That was challenging to get to work from a vaccation xD but I coped with it
+3. Getting more into OOP approach and SOLID by testing it and writing code, more understand how to build classed modules 
