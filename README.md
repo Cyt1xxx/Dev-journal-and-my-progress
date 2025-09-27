@@ -86,3 +86,13 @@ Was in vacation during this time lapse. Did some small refactoring before trip
 1. Was refactoring DB logic with SOLID principles anc OOP approach. Fully understand how actually decorator work's, practised ABC , Inheritance, learned about Dependency Injection, practised interface segregation principle.
 2. That was challenging to get to work from a vaccation xD but I coped with it
 3. Getting more into OOP approach and SOLID by testing it and writing code, more understand how to build classed modules 
+
+26.09.2025(6h)
+1. Refactored whole DB.py module using OOP + solid. Learned about Dependency Inversion and Injection combining Composition in OOP class, was mastering low level SQLalchemy classes such as engine and connection to make better code and understand all principles
+2. Could do more code and learn more, struggled to understand about Dependency Inversio
+3. Did good code
+
+27.09.2025(3h)
+1. Refactored only 1 function, more time read SQLalchemy docs about update with WHERE clause, low level , how session's work, about transaction's , stetes of objects such as: transient , pending , persistent
+2. Too much theory , few practise, was distracted IRL
+3. Understand depeer SQLalchemy
