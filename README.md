@@ -96,3 +96,8 @@ Was in vacation during this time lapse. Did some small refactoring before trip
 1. Refactored only 1 function, more time read SQLalchemy docs about update with WHERE clause, low level , how session's work, about transaction's , stetes of objects such as: transient , pending , persistent
 2. Too much theory , few practise, was distracted IRL
 3. Understand depeer SQLalchemy
+
+28.09.2025(4h)
+1. Was getting into SQLalchemy low level principles. Learned about UoW pattern , what is it, where it used; understand how flush works and commit after it; Identity Map , how db object's being transisient into python's , how it stored in memory. Understanding more refactored 2 methods in db class
+2. Could spent more time for working
+3. Good balance practice and theory
