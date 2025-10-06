@@ -101,3 +101,12 @@ Was in vacation during this time lapse. Did some small refactoring before trip
 1. Was getting into SQLalchemy low level principles. Learned about UoW pattern , what is it, where it used; understand how flush works and commit after it; Identity Map , how db object's being transisient into python's , how it stored in memory. Understanding more refactored 2 methods in db class
 2. Could spent more time for working
 3. Good balance practice and theory
+
+29.09.2025-04.10.2025
+Had been relocating to another country
+
+05.10.2025(3-4h)
+1. Setted up my work enviroment, was remembering where I stopped in my project and getting around it, finished refactoring one module with OOP , started the same thing with another, done partly everything
+2. Could be more focused at the end of work and less distracted by music , yt shorts and other, it was really hard to comeback
+3. Did good job , found mistakes and refactored it, learned in practise LSP and why we need to use it
+4. 
