@@ -109,4 +109,8 @@ Had been relocating to another country
 1. Setted up my work enviroment, was remembering where I stopped in my project and getting around it, finished refactoring one module with OOP , started the same thing with another, done partly everything
 2. Could be more focused at the end of work and less distracted by music , yt shorts and other, it was really hard to comeback
 3. Did good job , found mistakes and refactored it, learned in practise LSP and why we need to use it
-4. 
+
+06.10.2025(3-4h)
+1. Refactored whole core scraper module , following SOLID principles, changed existing modules, prepared for implementation to main orchestratot func
+2. May be could code more, still procrastinating after relocation
+3. Did focused refactoring , but could be focused more
