@@ -114,3 +114,8 @@ Had been relocating to another country
 1. Refactored whole core scraper module , following SOLID principles, changed existing modules, prepared for implementation to main orchestratot func
 2. May be could code more, still procrastinating after relocation
 3. Did focused refactoring , but could be focused more
+
+07.10.2025(3-4h)
+1. Was mastering mainly SOLID principles as LSP , ISP, DIP. Started making logic of scraper orchestrator.
+2. Too much theory , less practice, could spend more time on programming
+3. Understood pretty everything about mentioned solid principles.
