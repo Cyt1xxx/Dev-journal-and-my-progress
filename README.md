@@ -119,3 +119,11 @@ Had been relocating to another country
 1. Was mastering mainly SOLID principles as LSP , ISP, DIP. Started making logic of scraper orchestrator.
 2. Too much theory , less practice, could spend more time on programming
 3. Understood pretty everything about mentioned solid principles.
+
+08.10.2025(3h)
+1. Made general url management module that captures it classes and orchestrator of url creation.
+2. As yesterday, a little anxious and uncomfortable because of the move.
+3. Investigated my weak skilss in OOP , working on it
+
+09.10.2025 Day off
+
