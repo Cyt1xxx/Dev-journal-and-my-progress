@@ -127,3 +127,11 @@ Had been relocating to another country
 
 09.10.2025 Day off
 
+10.10.2025(3-4h)
+1. Refactored catalogue scraper functions to class Approach, applied DIP, Composition, DI, SRP for it
+2. Sorry don't remember writing all in 1 day (10 and 11 day of coding)
+
+11.10.2025(6-6.5h)
+1. Changed all scraper tasks functions to class Approach , think of new technical task, how to scale software, refactored existent bugs and made small changes, was exploring some architectural patterns like Repository pattern, understood how to properly use ABC interface class
+2. All good)
+3. Boosted my programming hours twice, returned hours of programming from my previous location
