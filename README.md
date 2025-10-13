@@ -135,3 +135,10 @@ Had been relocating to another country
 1. Changed all scraper tasks functions to class Approach , think of new technical task, how to scale software, refactored existent bugs and made small changes, was exploring some architectural patterns like Repository pattern, understood how to properly use ABC interface class
 2. All good)
 3. Boosted my programming hours twice, returned hours of programming from my previous location
+
+12.10.2025 day off
+
+13.10.2025(4-5h)
+1. Started refactoring another pipeline, refactored half of existing functions to SOLID approach, changed 1 module to OOP SOLID approach, was mainly practicing SOLID and refactoring. Explored the difference between __add__ , __iadd__ in python memory concept. Extending and reassigning objects
+2. Could spend more hours coding and refactoring
+3. Did many changes
