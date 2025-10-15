@@ -147,3 +147,6 @@ Had been relocating to another country
 1. Read article about property() decorator in OOP , watched the difference between ABC and Protocol, started exploring how actually relationship works in SQLalchemy, repeated forgetten thing, added new table
 2. Only theory , less coding
 3. Did good theoretical practise , understood some mind-blowing concepts
+
+15.10.2025
+Burned out , day off
