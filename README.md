@@ -142,3 +142,8 @@ Had been relocating to another country
 1. Started refactoring another pipeline, refactored half of existing functions to SOLID approach, changed 1 module to OOP SOLID approach, was mainly practicing SOLID and refactoring. Explored the difference between __add__ , __iadd__ in python memory concept. Extending and reassigning objects
 2. Could spend more hours coding and refactoring
 3. Did many changes
+
+14.10.2025(5h)
+1. Read article about property() decorator in OOP , watched the difference between ABC and Protocol, started exploring how actually relationship works in SQLalchemy, repeated forgetten thing, added new table
+2. Only theory , less coding
+3. Did good theoretical practise , understood some mind-blowing concepts
