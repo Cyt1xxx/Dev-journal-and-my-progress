@@ -150,3 +150,8 @@ Had been relocating to another country
 
 15.10.2025
 Burned out , day off
+
+16.10.2025 (6h)
+1. Learned and implemented to code Stratagy and Repository pattern's, refactored pretty all db module.
+2. Can finish all module and started refactoring because there are a lot of work. Lack in knowledge in SQLalchemy...
+3. Did good , focused work for 6h
