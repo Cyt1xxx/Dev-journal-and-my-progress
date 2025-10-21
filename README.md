@@ -155,3 +155,15 @@ Burned out , day off
 1. Learned and implemented to code Stratagy and Repository pattern's, refactored pretty all db module.
 2. Can finish all module and started refactoring because there are a lot of work. Lack in knowledge in SQLalchemy...
 3. Did good , focused work for 6h
+
+17-19.10.2025(Procrastinating days worked a little, added insignificant changes)
+
+20.10.2025(2-3h)
+1. Practised on sqlite3 module , explored about relationship in SA, session management, ON CONFLICT DO NOTHING/DO UPDATE , tested both, started thinking of benefits to change to Postgres , learned about BULK INSERT , how to optimize db commands in postgres, dialect of postgres insert
+2. Didn't find more time for programming
+3. Understood the key factor of vulnerable place in my software , worked on better understanding the background principles
+
+21.10.2025(2.30h)
+1. Watched Ajran codes video about type hints, why we use them. https://tinyurl.com/2xbkpy9n , refactore hardly all repository, it remained only to handle db logic inside the runner, understood how to optimize asyncio tasks by creating each method for I/O task, implemented queue inside the pipeline , added pipeline pattern.
+2. Again -> Didn't find more time for programming
+3. Good returning in coding routine after a rest
