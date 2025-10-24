@@ -167,3 +167,8 @@ Burned out , day off
 1. Watched Ajran codes video about type hints, why we use them. https://tinyurl.com/2xbkpy9n , refactore hardly all repository, it remained only to handle db logic inside the runner, understood how to optimize asyncio tasks by creating each method for I/O task, implemented queue inside the pipeline , added pipeline pattern.
 2. Again -> Didn't find more time for programming
 3. Good returning in coding routine after a rest
+
+22-23.10.2025(some small commits , procrastinated)
+
+24.10.2025()
+1. Learned about #Generators , when to use over list comrehension [yt_link](https://youtu.be/RvQkEaBMTJc) , read till the end article about asyncio, explored and reapeated concepts, learned about asyncio for loop, how asyncio.gather(return_exceptions = True) works, Exception group, except*, how to handle many errors in concurrent app [article](https://realpython.com/async-io-python/#common-async-io-programming-patterns) ,
