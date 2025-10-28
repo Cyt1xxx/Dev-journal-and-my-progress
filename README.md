@@ -175,7 +175,19 @@ Burned out , day off
 2. Still theory > practise. Must have more practise and less procrastination
 3. Good theoretical pracitse, practised and got more into asyncio, generator's
 
-25.10.2024(3 h)
+25.10.2025(3 h)
 1. Created new plan for applying enhancements inside my application (The most prioritized task is to create new database - postgres , set up database migration tool - alembic) , with that being said I started learning postgres principles , installed it agaian to new enviroment, started getting deeply into in by reading docs, learned about Multi Version Concurrency Control tool inside of postgres , the main purpose of it to avoid deadlock inside the database , learned about VACUM that cleanes oldest versions of snapshots.
 2. Could make more time for studying
 3. Coocked food for a week , did sport , made a plan for updating a software
+
+26.10.2025(2h)
+1. Installed postgres , started reading it's docs, watched introduction to postgres video
+2. Idiot. Could make more time for studying
+3. -
+
+27.10.2025(burned out)
+
+28.10.25(3-3.5
+1. Again I have been getting into postgres, but only the terms related to my app. The study was regarding of ACID , most of all Isolation. Explored about levels of isolation , phenomena that is prohibited. Fully understood: dirty read , read commited lvl , phantom read
+2. Might considered more lvl into today's study
+3. Good destination switchment movement as I don't need to read all postgres concepts, only regards my project
