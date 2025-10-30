@@ -187,10 +187,14 @@ Burned out , day off
 
 27.10.2025(burned out)
 
-28.10.25(3-3.5
+28.10.25(3-3.5)
 1. Again I have been getting into postgres, but only the terms related to my app. The study was regarding of ACID , most of all Isolation. Explored about levels of isolation , phenomena that is prohibited. Fully understood: dirty read , read commited lvl , phantom read.
 Dirty read - READ clause of uncomitted concurrent transaction , unreal in postgres, because of MVCC aspect, as each read stmt reads the last commited version of choosen row.
 Phantom read - when between two read stmt's happen a WRITE transaction, that was commited and the transaction after WRITE stmt would show us new row added/modified, so the phantom row. In other words, when concurrent transaction is made between transaction with read stmt's. It is fixed with isolation's lvls such as: repeatable read + serializable.
 From postgres [docs](https://www.postgresql.org/docs/18/transaction-iso.html): A transaction re-executes a query returning a set of rows that satisfy a search condition and finds that the set of rows satisfying the condition has changed due to another recently-committed transaction.
-3. Might considered more lvl into today's study
-4. Good destination switchment movement as I don't need to read all postgres concepts, only regards my project
+3. Might considered more lvl into today's study. Good destination switchment movement as I don't need to read all postgres concepts, only regards my project
+
+29.10.25-30.10.25(3.5-4h + 3.5)
+1. Explored Repeatable read isolation lvl and based on this learnead about phantom read - when the same query was executed , we retrieved the collection of rows and in the same transaction again we retrieve the modified collection of rows, non-repeatable read - something similar , but it is only about situation , when we talk about modification the only 1 row , column of row, important thing the first retrieved data must differ from the second one and vice versa. Started learning about serializtion isolation lvl: get known with serializable anomaly - it is when queries are being executed serially but the commited result is inconsistent with any order. Serial execution and serializable are different things! Serial is about order and serializable when we collect concurrent transactions and execute them serially. Haven't finished postgres isolation lvl docs yet. There are some misunderstandings with serialization.
+2. Was distracted few times , haven't finished today's todo list
+3. Rainforced concepts learned before , I have been goinf through a lot of new principles and hardly memorized all of them.
