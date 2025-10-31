@@ -198,3 +198,8 @@ From postgres [docs](https://www.postgresql.org/docs/18/transaction-iso.html): A
 1. Explored Repeatable read isolation lvl and based on this learnead about phantom read - when the same query was executed , we retrieved the collection of rows and in the same transaction again we retrieve the modified collection of rows, non-repeatable read - something similar , but it is only about situation , when we talk about modification the only 1 row , column of row, important thing the first retrieved data must differ from the second one and vice versa. Started learning about serializtion isolation lvl: get known with serializable anomaly - it is when queries are being executed serially but the commited result is inconsistent with any order. Serial execution and serializable are different things! Serial is about order and serializable when we collect concurrent transactions and execute them serially. Haven't finished postgres isolation lvl docs yet. There are some misunderstandings with serialization.
 2. Was distracted few times , haven't finished today's todo list
 3. Rainforced concepts learned before , I have been goinf through a lot of new principles and hardly memorized all of them.
+
+31.10.2025(3h)
+1. Woke up earlier , mastered hardly all misunderstandigs , challenged myself with a test , i had 2 tests about Trans. Isolation postgres , results were: 70%, 84%, still need to rainforce some knowledge.
+2. There are still some misunderstandigs , don't feel comfortable in some chapters, was distracted , don't followed todo plan ,skipped a lot
+3. Got the Serializable isolation level concept , now it is clear for me, I feel confident about most knowledge 
