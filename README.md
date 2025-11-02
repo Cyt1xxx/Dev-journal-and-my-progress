@@ -202,4 +202,8 @@ From postgres [docs](https://www.postgresql.org/docs/18/transaction-iso.html): A
 31.10.2025(3h)
 1. Woke up earlier , mastered hardly all misunderstandigs , challenged myself with a test , i had 2 tests about Trans. Isolation postgres , results were: 70%, 84%, still need to rainforce some knowledge.
 2. There are still some misunderstandigs , don't feel comfortable in some chapters, was distracted , don't followed todo plan ,skipped a lot
-3. Got the Serializable isolation level concept , now it is clear for me, I feel confident about most knowledge 
+3. Got the Serializable isolation level concept , now it is clear for me, I feel confident about most knowledge
+
+01.10.2025(Day off)
+
+
