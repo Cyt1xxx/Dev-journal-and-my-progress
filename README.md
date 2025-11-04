@@ -206,4 +206,10 @@ From postgres [docs](https://www.postgresql.org/docs/18/transaction-iso.html): A
 
 01.10.2025(Day off)
 
+02.10.2025(1.5h)
+1. Fully mastered Transaction Isolation lvl's, tested successfully myself, just was getting through docs.
+2. Too low coding time
+3. No pros :(
+
+03.10.2025(day off)
 
