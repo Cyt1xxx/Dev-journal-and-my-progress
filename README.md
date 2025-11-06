@@ -204,12 +204,18 @@ From postgres [docs](https://www.postgresql.org/docs/18/transaction-iso.html): A
 2. There are still some misunderstandigs , don't feel comfortable in some chapters, was distracted , don't followed todo plan ,skipped a lot
 3. Got the Serializable isolation level concept , now it is clear for me, I feel confident about most knowledge
 
-01.10.2025(Day off)
+01.11.2025(Day off)
 
-02.10.2025(1.5h)
+02.11.2025(1.5h)
 1. Fully mastered Transaction Isolation lvl's, tested successfully myself, just was getting through docs.
 2. Too low coding time
 3. No pros :(
 
-03.10.2025(day off)
+03.11.2025(day off)
 
+04.11.2025(1.5h)
+1. Only read whole explicit locking postgres docs
+2. Didn't think of docs , just run my eyes through the text
+3. Worked, eventhough I have become ill
+
+05.11.2025(day off , because of illness)
