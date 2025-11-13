@@ -220,7 +220,12 @@ From postgres [docs](https://www.postgresql.org/docs/18/transaction-iso.html): A
 
 05.11.2025(day off , because of illness)
 
-06.11.2025-13.11.2025(no practise, only theory + 2-3 days of)
+06.11.2025-12.11.2025(no practise, only theory + 2-3 days of)
 1. Mastered transaction isolation level's, explored explicit locking postgresql, learnt about indexes, why do we need them , how do they speed up searching process, the algorithm such as B-tree B+-tree, how that algorithm works, started exiting tutorial he'll
 2. End up in tutorial he'll , so much tutorial's and theory, 0 practise
 3. Found the solution to exit such an "event" , rescheduled my working day , started applying explored principles to my codline
+
+13.11.2025(4.5h)
+1. Started process of sender/scraper separation , made new , refactored scraper's db logic, learn't about [duck typing][(](https://youtu.be/Qe03kCuTMoU)) in python, how to use [Protocols](https://youtu.be/dryNwWvSd4M) over ABC, practised SA a bit.
+2. Could make more code and take a risky steps, still don't do testing , while developing , I am afraid and lazy about testing, crashing features to better understand the concepts of programming
+3. Such a good returning day from "tutorial he'll rest" , explored new clean code practise, considered previous mistackes
