@@ -229,3 +229,5 @@ From postgres [docs](https://www.postgresql.org/docs/18/transaction-iso.html): A
 1. Started process of sender/scraper separation , made new , refactored scraper's db logic, learn't about [duck typing][(](https://youtu.be/Qe03kCuTMoU)) in python, how to use [Protocols](https://youtu.be/dryNwWvSd4M) over ABC, practised SA a bit.
 2. Could make more code and take a risky steps, still don't do testing , while developing , I am afraid and lazy about testing, crashing features to better understand the concepts of programming
 3. Such a good returning day from "tutorial he'll rest" , explored new clean code practise, considered previous mistackes
+
+14.11.2025-16.11.2025(days off)
