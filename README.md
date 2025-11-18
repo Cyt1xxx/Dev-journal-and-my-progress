@@ -231,3 +231,8 @@ From postgres [docs](https://www.postgresql.org/docs/18/transaction-iso.html): A
 3. Such a good returning day from "tutorial he'll rest" , explored new clean code practise, considered previous mistackes
 
 14.11.2025-16.11.2025(days off)
+
+17.11.2025-18.11.2025(3h , 4h)
+1. Refactored Fetcher module , enhanced retry request logic , added proxy rotation (random + random rubi algorithm (in dev)) , in second day: refactored core scraper added extra parsing logic + new utilities.
+2. No theory , only code and practise must cath a balance
+3. Good come back
