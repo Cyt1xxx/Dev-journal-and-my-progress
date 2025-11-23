@@ -236,3 +236,8 @@ From postgres [docs](https://www.postgresql.org/docs/18/transaction-iso.html): A
 1. Refactored Fetcher module , enhanced retry request logic , added proxy rotation (random + random rubi algorithm (in dev)) , in second day: refactored core scraper added extra parsing logic + new utilities.
 2. No theory , only code and practise must cath a balance
 3. Good come back
+
+19-23(4h, 5h, 6h, 6h)
+1. No theory , only code sessions , was procrastinating in some days , learned more about asyncio , TaskGroup() with asyncio context manager over asyncio.gather() , built up a runner , had some tests of launching - failed
+2. Didn't follow a diary , had an awful mood hardly whole days, more devastated mood I think , could fucking code more ,but was too lazy just to type damn code! OMG
+3. Nothing to say, may be only the discipline , slightly returning to 8-10h per day
