@@ -241,3 +241,8 @@ From postgres [docs](https://www.postgresql.org/docs/18/transaction-iso.html): A
 1. No theory , only code sessions , was procrastinating in some days , learned more about asyncio , TaskGroup() with asyncio context manager over asyncio.gather() , built up a runner , had some tests of launching - failed
 2. Didn't follow a diary , had an awful mood hardly whole days, more devastated mood I think , could fucking code more ,but was too lazy just to type damn code! OMG
 3. Nothing to say, may be only the discipline , slightly returning to 8-10h per day
+
+24.11.2025(5 h)
+1. Was fixing some basic bugs of the web scraper , while fixing practised typing lib , inheritance in OOP, asyncio. A bit boring job of finding and fixing bugs but very important
+2. There were a lot of bugs , some architectural misses
+3. Overall, I have done a good job , cleaner code has saved me a lot of time , but still there were some stupid mistackes, that took much time
