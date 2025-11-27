@@ -246,3 +246,10 @@ From postgres [docs](https://www.postgresql.org/docs/18/transaction-iso.html): A
 1. Was fixing some basic bugs of the web scraper , while fixing practised typing lib , inheritance in OOP, asyncio. A bit boring job of finding and fixing bugs but very important
 2. There were a lot of bugs , some architectural misses
 3. Overall, I have done a good job , cleaner code has saved me a lot of time , but still there were some stupid mistackes, that took much time
+
+25.11.202.5-26.11.2025(6 h overall , boring staff , just debugging)
+
+27.11.20225(7.5 h, WOW)
+1. Investigated Date Types in postgres , write a dedicated [article](https://dev.to/brainstorm86/how-have-i-managed-date-types-in-my-asyncio-python-web-scraper-using-postgresql-2272) , applied a technical changes into my code , explored how postgresql handles it and sqlalchemy orm, added a re expression feature to my code, explored corey schafer video about [type hints](https://youtu.be/RwH2UzC2rIo) and mypy , applied it to my code
+2. Can do more coding practise , read again CODING , not theory and auxilary models, kind of brain procrastination and deffensive mechanism
+3. A lot of progress, seriously, had many hours of deep focused work - so the result. Firstly write my own article , woooow! Impressive!
