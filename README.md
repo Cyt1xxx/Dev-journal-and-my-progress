@@ -253,3 +253,8 @@ From postgres [docs](https://www.postgresql.org/docs/18/transaction-iso.html): A
 1. Investigated Date Types in postgres , write a dedicated [article](https://dev.to/brainstorm86/how-have-i-managed-date-types-in-my-asyncio-python-web-scraper-using-postgresql-2272) , applied a technical changes into my code , explored how postgresql handles it and sqlalchemy orm, added a re expression feature to my code, explored corey schafer video about [type hints](https://youtu.be/RwH2UzC2rIo) and mypy , applied it to my code
 2. Can do more coding practise , read again CODING , not theory and auxilary models, kind of brain procrastination and deffensive mechanism
 3. A lot of progress, seriously, had many hours of deep focused work - so the result. Firstly write my own article , woooow! Impressive!
+
+28.11.2025(7h)
+1. Mastered pydantic module, refactored code , added pydantic validation objects except of dictionaries in scraper, understood what lambda does in python, added phone_numbers validation, fixed type hints in a code, fixed bugs after the update.
+2. Didn't manage spreadint out a time, can read an article about lamda or set , spent too much time watching tutorial (approximately 2h) , haven't commit , while refactoring
+3. Find a lot of hidden mistackes inside the code from website site , implemented new library for me , will use it more (pydantic)
