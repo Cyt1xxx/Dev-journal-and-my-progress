@@ -258,3 +258,11 @@ From postgres [docs](https://www.postgresql.org/docs/18/transaction-iso.html): A
 1. Mastered pydantic module, refactored code , added pydantic validation objects except of dictionaries in scraper, understood what lambda does in python, added phone_numbers validation, fixed type hints in a code, fixed bugs after the update.
 2. Didn't manage spreadint out a time, can read an article about lamda or set , spent too much time watching tutorial (approximately 2h) , haven't commit , while refactoring
 3. Find a lot of hidden mistackes inside the code from website site , implemented new library for me , will use it more (pydantic)
+
+29.11.2025-30.11.2025(the weekends)
+
+01.12.2025-03.12.2025(4.5 h, 4h, 4h)
+1. Did nothing in a fucking code! I had the imposter syndrome , the same problem I struggle with Networking fundamentals I need to master it and work on my code architecture , deleted some extra classes, changed an approach of deduplicating ids, start learning deeper aiohttp , how it manages connections , TCP/IP and other's still have to be mastered.
+2. Reduced coding time, bad sleep schedule, no implementing features into the code
+3. Only plus that I have explored mypy through docs, installed it , crashed then fixed via VS IDE
+
