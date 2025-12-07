@@ -266,7 +266,12 @@ From postgres [docs](https://www.postgresql.org/docs/18/transaction-iso.html): A
 2. Reduced coding time, bad sleep schedule, no implementing features into the code
 3. Only plus that I have explored mypy through docs, installed it , crashed then fixed via VS IDE
 
-04.12.2025
+04.12.2025(7.5h)
 1. Was learning Networking fundamentals through mozilla dev docs + articles. Understood better HTTP , TCP/IP layer, how HTML triggers CSS , JS and other sources. Understood how connection is established through TCP layer, why it is important to observe your response headers and other theory. Learnt more about lambda , generators in Python , was surfing aiohttp docs for the sollution of my current fetcher. Finally, implemented pythonic sollution from today's theory.
 2. Felt anxious about coding and my future career , was distracted during 2 studying segments, must consider learning low level and deeper concepts
 3. Mixed theory + practise, understood important concepts , implemented theory in a code, append the desire to learn C and low level
+
+05.12.2025(6h)
+1. Had English courses (1h) , refactored a bit Fetcher class, created new headers generator module with hard-coded example of a single website and refactored it to a more pythonic and less ambigious view, that class handles request headers generation
+2. Didn't make a norm of programming days per day, wasted 1.5-3h by making a bad sollution.
+3. Recalled some libs (json, re) , made a pretty important module
