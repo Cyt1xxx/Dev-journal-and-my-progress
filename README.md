@@ -275,3 +275,10 @@ From postgres [docs](https://www.postgresql.org/docs/18/transaction-iso.html): A
 1. Had English courses (1h) , refactored a bit Fetcher class, created new headers generator module with hard-coded example of a single website and refactored it to a more pythonic and less ambigious view, that class handles request headers generation
 2. Didn't make a norm of programming days per day, wasted 1.5-3h by making a bad sollution.
 3. Recalled some libs (json, re) , made a pretty important module
+
+06-07.12.2025(the weekends)
+
+08.12.2025(7.5h)
+1. Added external proxy API loader, explored generator obj + mastered it in decision, refactored again fetcher))) now it is the best solution, adjusted type hints using new-learnt typing's tool such as TypeVar implemented modern variation from python 3.12 like generic functions, read half of article about lambda
+2. Was distracted a lot by social media and messengers may be 1-1.5 h of distractions had a lot of phone calls with relatieves
+3. Understood how to use dynamic typing , at last my books were delievered + followed up desired routine code + theoretical knowledge
