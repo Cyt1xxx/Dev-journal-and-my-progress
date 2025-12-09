@@ -282,3 +282,8 @@ From postgres [docs](https://www.postgresql.org/docs/18/transaction-iso.html): A
 1. Added external proxy API loader, explored generator obj + mastered it in decision, refactored again fetcher))) now it is the best solution, adjusted type hints using new-learnt typing's tool such as TypeVar implemented modern variation from python 3.12 like generic functions, read half of article about lambda
 2. Was distracted a lot by social media and messengers may be 1-1.5 h of distractions had a lot of phone calls with relatieves
 3. Understood how to use dynamic typing , at last my books were delievered + followed up desired routine code + theoretical knowledge
+
+09.12.2025(4.5h)
+1. Again was refactoring fetcher.py module, the ProxyRotator class. Added a preciser version of pydantic proxy model, understood using Fluent Python book why it is a danger to put mutable obj into func params, more about sets , hashes , why set is a faster then a list, when finding something
+2. Spent less time then usually
+3. Find a ne , good approach of learning book , docs + implementation of concept, I am unsure about
