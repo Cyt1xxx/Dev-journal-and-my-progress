@@ -287,3 +287,12 @@ From postgres [docs](https://www.postgresql.org/docs/18/transaction-iso.html): A
 1. Again was refactoring fetcher.py module, the ProxyRotator class. Added a preciser version of pydantic proxy model, understood using Fluent Python book why it is a danger to put mutable obj into func params, more about sets , hashes , why set is a faster then a list, when finding something
 2. Spent less time then usually
 3. Find a ne , good approach of learning book , docs + implementation of concept, I am unsure about
+
+10.12.2025(2 h light coding )
+
+11.12.2025(7.5h)
+1. Removed all bottlenecks from fetcher, added locks for coroutines, a coroutine that maintain proxies and refreshes them, did hardly the logic of functions and checked (without tests yet)
+2. Didn't read much info from book may be because I haven't got too much experience yet) it is kind of hard for me to predict how to build my app and what i wanna from it. Nothing new learnt,however, only
+rainforced the info I learnt yesterday about sets. Don't likt the architectur for fetcher I have made
+3. Despites all minuses, fetcher is one of the most important and the largest module in my repo, i have put a lot of effor there and it will defenetely pay off.
+4. 
