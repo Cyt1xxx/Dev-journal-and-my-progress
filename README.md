@@ -295,4 +295,7 @@ From postgres [docs](https://www.postgresql.org/docs/18/transaction-iso.html): A
 2. Didn't read much info from book may be because I haven't got too much experience yet) it is kind of hard for me to predict how to build my app and what i wanna from it. Nothing new learnt,however, only
 rainforced the info I learnt yesterday about sets. Don't likt the architectur for fetcher I have made
 3. Despites all minuses, fetcher is one of the most important and the largest module in my repo, i have put a lot of effor there and it will defenetely pay off.
-4. 
+
+12-13.12.2025(weekends)
+
+14.12.2025
