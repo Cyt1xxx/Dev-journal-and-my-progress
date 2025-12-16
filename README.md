@@ -298,6 +298,7 @@ rainforced the info I learnt yesterday about sets. Don't likt the architectur fo
 
 12-13.12.2025(weekends)
 
+#NEW WEEK - GOAL 40 h of studying
 14.12.2025(5.5.h)
 1. Started additionaly learning C , installed a compiler GCC , GDB debugger. Wrote my first C code, understood statements: #define , #include. How static typing works in C, did few scripts with for and while Loops, understood techniques of formatting a int/float variable, how to define variables. Stopped in 1.7 chapter of The C programming language book, started reading How linux works, read 1 chapter, too complicated now
 2. Could spread more time out , caught a lot of confusion with linux book, need extra theoretical knowledge of computer's concepts to understand widely
