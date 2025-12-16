@@ -302,3 +302,8 @@ rainforced the info I learnt yesterday about sets. Don't likt the architectur fo
 1. Started additionaly learning C , installed a compiler GCC , GDB debugger. Wrote my first C code, understood statements: #define , #include. How static typing works in C, did few scripts with for and while Loops, understood techniques of formatting a int/float variable, how to define variables. Stopped in 1.7 chapter of The C programming language book, started reading How linux works, read 1 chapter, too complicated now
 2. Could spread more time out , caught a lot of confusion with linux book, need extra theoretical knowledge of computer's concepts to understand widely
 3. GJ , started a lot of new today, much understood about C , I liked it a lot so did many practices with it
+
+15-16.12.2025(4.5h + 6.5h)
+1. Started exploring pytests library + pytest-mock, as I'm new to test I surfed through all the concepts like what are unit,integration tests, F.I.R.S.T principles, watched some get started pytest video, started implementing tests to my existing code , while making small refactoring changes.
+2. On Monday test lib blew up my mind because of mock obj now I understand them well as I wasn't attentive enough, in unittest they are decoratores or a context manager , however, in mock it's anti-pattern approach.
+3. Finally, i've learnt fucking tests and how to use them! now only pracise and deeper understanding of the usecase is required
