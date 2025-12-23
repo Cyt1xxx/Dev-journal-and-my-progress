@@ -298,7 +298,7 @@ rainforced the info I learnt yesterday about sets. Don't likt the architectur fo
 
 12-13.12.2025(weekends)
 
-#NEW WEEK - GOAL 40 h of studying
+#NEW WEEK - GOAL 40 h of studying - FUCKED UP)))
 14.12.2025(5.5.h)
 1. Started additionaly learning C , installed a compiler GCC , GDB debugger. Wrote my first C code, understood statements: #define , #include. How static typing works in C, did few scripts with for and while Loops, understood techniques of formatting a int/float variable, how to define variables. Stopped in 1.7 chapter of The C programming language book, started reading How linux works, read 1 chapter, too complicated now
 2. Could spread more time out , caught a lot of confusion with linux book, need extra theoretical knowledge of computer's concepts to understand widely
@@ -308,3 +308,11 @@ rainforced the info I learnt yesterday about sets. Don't likt the architectur fo
 1. Started exploring pytests library + pytest-mock, as I'm new to test I surfed through all the concepts like what are unit,integration tests, F.I.R.S.T principles, watched some get started pytest video, started implementing tests to my existing code , while making small refactoring changes.
 2. On Monday test lib blew up my mind because of mock obj now I understand them well as I wasn't attentive enough, in unittest they are decoratores or a context manager , however, in mock it's anti-pattern approach.
 3. Finally, i've learnt fucking tests and how to use them! now only pracise and deeper understanding of the usecase is required
+
+17.12.2025-22.12.2025(day offs + burn out, while was having it did german , english , math)
+
+#NEW WEEK - GOAL 30 h of studying (less as i also practise english, german, maths from a complete rest for 2-3 years , i need this to apply for a uni + do sports for 1.5-2h each day)
+23.12.2025(6.5h)
+1. Simplified a sophisticated logic of fetcher.py , removed a lot of redundant methods, logic. Understood how to use mocker , mocker.MagicMock, mocker.AsyncMock , practised making tests from an Ai boilerplate, added sufficiently, started reading Interface, Protocols, ABCs of Fluent python book , got deeper understanding of dynamic duck typing, what python cares about, explored the monkey patching
+2. Still gotta do less rest and to be not distracted (did like a 30-40 min rest few times , except of a meditation practise or washing the dishes)
+3. Such a good returning day, I hope that I'll stick up to this for months, I'd always starting over again there). So let it be more consinsent with the result
