@@ -316,3 +316,8 @@ rainforced the info I learnt yesterday about sets. Don't likt the architectur fo
 1. Simplified a sophisticated logic of fetcher.py , removed a lot of redundant methods, logic. Understood how to use mocker , mocker.MagicMock, mocker.AsyncMock , practised making tests from an Ai boilerplate, added sufficiently, started reading Interface, Protocols, ABCs of Fluent python book , got deeper understanding of dynamic duck typing, what python cares about, explored the monkey patching
 2. Still gotta do less rest and to be not distracted (did like a 30-40 min rest few times , except of a meditation practise or washing the dishes)
 3. Such a good returning day, I hope that I'll stick up to this for months, I'd always starting over again there). So let it be more consinsent with the result
+
+24.12.2025(6 h)
+1. Practised again usage of pytest lib, implemented test for barely every func in fetcher.py , still wanna refactor it with docs to understand a deeper concept of pytest lib, learned some tricks of pytest.fiture + mocker.mock, covered Duck Typing + started Goose Typing in Fluent Python book, explored how to correctly use runtime type checking , benefits of it, than explicit type checking (isintance , type , is , etc.)
+2. Tests blew up my brain for a while , finished early 1-2 rounds, was distracted for 15-30 min overall, could read more, if only I'd waken up earlier
+3. such a common day
