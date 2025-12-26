@@ -321,3 +321,10 @@ rainforced the info I learnt yesterday about sets. Don't likt the architectur fo
 1. Practised again usage of pytest lib, implemented test for barely every func in fetcher.py , still wanna refactor it with docs to understand a deeper concept of pytest lib, learned some tricks of pytest.fiture + mocker.mock, covered Duck Typing + started Goose Typing in Fluent Python book, explored how to correctly use runtime type checking , benefits of it, than explicit type checking (isintance , type , is , etc.)
 2. Tests blew up my brain for a while , finished early 1-2 rounds, was distracted for 15-30 min overall, could read more, if only I'd waken up earlier
 3. such a common day
+
+
+25-26.12.2025(7-8h overall)
+1. Python 3-3.5h: mainly did refactoring , thought of optimizations moments , refactored some funcs from fetcher add new implementation of existing func, fetcher's barely done, need to finish new tests for func , i've mentioned. 
+   C 4h: understood the differenceses between char, long, int (amount of bytes) , getchar/putchar behaviour , EOF definition (-1) , why char can't catch it, how actually a machine read what we type (reads bytes, interprets to ASCII digits, than letters) , practised for loop why it breaks the body immediately after statement's failure, tackled some problems in the book, understood if/elif/else , why it's'faster, then if if if... statements
+2. only 3-4 h per day, my schedule's a bit interrupted...
+3. minuses overcome pluses
