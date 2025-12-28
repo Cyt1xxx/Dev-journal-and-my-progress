@@ -311,7 +311,9 @@ rainforced the info I learnt yesterday about sets. Don't likt the architectur fo
 
 17.12.2025-22.12.2025(day offs + burn out, while was having it did german , english , math)
 
-#NEW WEEK - GOAL 30 h of studying (less as i also practise english, german, maths from a complete rest for 2-3 years , i need this to apply for a uni + do sports for 1.5-2h each day)
+#NEW WEEK - GOAL 30 h of studying (less as i also practise english, german, maths from a complete rest for 2-3 years , i need this to apply for a uni + do sports for 1.5-2h each day) 
+#WORKED: Barely 26h , still not bad for a new schedule
+
 23.12.2025(6.5h)
 1. Simplified a sophisticated logic of fetcher.py , removed a lot of redundant methods, logic. Understood how to use mocker , mocker.MagicMock, mocker.AsyncMock , practised making tests from an Ai boilerplate, added sufficiently, started reading Interface, Protocols, ABCs of Fluent python book , got deeper understanding of dynamic duck typing, what python cares about, explored the monkey patching
 2. Still gotta do less rest and to be not distracted (did like a 30-40 min rest few times , except of a meditation practise or washing the dishes)
@@ -328,3 +330,10 @@ rainforced the info I learnt yesterday about sets. Don't likt the architectur fo
    C 4h: understood the differenceses between char, long, int (amount of bytes) , getchar/putchar behaviour , EOF definition (-1) , why char can't catch it, how actually a machine read what we type (reads bytes, interprets to ASCII digits, than letters) , practised for loop why it breaks the body immediately after statement's failure, tackled some problems in the book, understood if/elif/else , why it's'faster, then if if if... statements
 2. only 3-4 h per day, my schedule's a bit interrupted...
 3. minuses overcome pluses
+
+27.12.2025(day off)
+
+28.12.2025(6h)
+1. Was learning C by book, practised what've learn earlier, did the exercise i haven't finished, got familiar with analogue of ython's and,  or operators (&& , ||), some tricks of C like assignmnet of variables like this: x = y = z = 0 (right to left), how to use else if more precisely, started module of arrays , stopped here as i failed exercise , but will keep on practising during a next week. Fully explored ch. 1 of Linux book, started practising by entering shell commands on wsl.
+2. Good exercise hours , no minuses. Change a bit approach by tackling ex. in c book - provide 1-2h+ time to a complicated ones and after it cheat on a decision. I made this to fight up with my impatience and to force my brain find it's own solutions neither on relying to someone's help.
+
