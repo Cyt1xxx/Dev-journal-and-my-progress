@@ -337,3 +337,9 @@ rainforced the info I learnt yesterday about sets. Don't likt the architectur fo
 1. Was learning C by book, practised what've learn earlier, did the exercise i haven't finished, got familiar with analogue of ython's and,  or operators (&& , ||), some tricks of C like assignmnet of variables like this: x = y = z = 0 (right to left), how to use else if more precisely, started module of arrays , stopped here as i failed exercise , but will keep on practising during a next week. Fully explored ch. 1 of Linux book, started practising by entering shell commands on wsl.
 2. Good exercise hours , no minuses. Change a bit approach by tackling ex. in c book - provide 1-2h+ time to a complicated ones and after it cheat on a decision. I made this to fight up with my impatience and to force my brain find it's own solutions neither on relying to someone's help.
 
+29.12.2025(day skipped)
+
+30.12.2025(5h)
+1. Fixed tests for new data types for fetcher module, thought about behaviour of url generations came to easier decision i used to have, implemented it , wrtoe easy tests (need to be extended) , wrtie a bit (30 min) about Goose typing in Fluent python book
+2. Didn't do any valuable I think , wasted a lot of time on thoughts not on code
+3. The only plus is I've finally finished fetcher! (for now xD)
