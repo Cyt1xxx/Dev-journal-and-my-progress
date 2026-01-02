@@ -343,3 +343,10 @@ rainforced the info I learnt yesterday about sets. Don't likt the architectur fo
 1. Fixed tests for new data types for fetcher module, thought about behaviour of url generations came to easier decision i used to have, implemented it , wrtoe easy tests (need to be extended) , wrtie a bit (30 min) about Goose typing in Fluent python book
 2. Didn't do any valuable I think , wasted a lot of time on thoughts not on code
 3. The only plus is I've finally finished fetcher! (for now xD)
+
+31.12.2025(day off, the new year's eve celebration)
+
+01.12.2026-02.12.2026(9-10h)
+1. on 1 january mostly hasn't done any interesting , just finished urlgenerator class and wrote tests for it (a bit of spaghetti code xD) and thought about architecture, next day started getting into redis concepts and redis overall , tested command in redis-cli in docker, went through docs understand the concepts of pipelines, transactions , why pipelinng is much efficient then making a common rq within massive amount of data , started implementation into a project, done only an interface :( , read more about goose typing in the fluent python book, about collections_abc and how abc data types are identificated with isintance() method
+2. good day but now 1 of january (was sober btw) mostly hasn't written code much
+3. the best architectural decision i guess (about redis and caching some kind of data there)
