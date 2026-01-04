@@ -350,3 +350,10 @@ rainforced the info I learnt yesterday about sets. Don't likt the architectur fo
 1. on 1 january mostly hasn't done any interesting , just finished urlgenerator class and wrote tests for it (a bit of spaghetti code xD) and thought about architecture, next day started getting into redis concepts and redis overall , tested command in redis-cli in docker, went through docs understand the concepts of pipelines, transactions , why pipelinng is much efficient then making a common rq within massive amount of data , started implementation into a project, done only an interface :( , read more about goose typing in the fluent python book, about collections_abc and how abc data types are identificated with isintance() method
 2. good day but now 1 of january (was sober btw) mostly hasn't written code much
 3. the best architectural decision i guess (about redis and caching some kind of data there)
+
+03.01.2026(weekend)
+
+04.01.2026(6h)
+1. Still was solving the Exercise 1-13 problem in K&R book, practised arrays in C, was attempting to make a solution, however, i've failed for now, will tackle it anyway. For another 3 hours read through How linux book, especially, about commands , ch. 2. The most memorable: pwd - shows the dir where i am, less - for a convenient text reading, ls - list content of a dir. There were a lot of them , actually. Explored ctrl keystrokes to navigate a cursor in the termianl , explored unix glob , wildcarding, shell/env variables. At last, I am thinking about installing GNU/linux distro - Ubunto and may be will transfer to vim edior from vs code in recent days
+2. Could better manage my time during this day, just wasted few hours
+3. Strict , focused 6h of programmin, not bad
