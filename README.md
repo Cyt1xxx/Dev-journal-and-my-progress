@@ -359,3 +359,8 @@ rainforced the info I learnt yesterday about sets. Don't likt the architectur fo
 3. Strict , focused 6h of programmin, not bad
 
 05.01.2026(2h nothing to say , small maintenance)
+
+06.01.2026(5.5h)
+1. Implemented redis caching into the project (get, set, sadd, sismember, incr) following redis-py lib, made tests for them, refactored after, got familiar with the fakeredis lib , how to test with it. Began refactoring parser module , more clean core's required here and deffensive programming. Read through fluent python book, understood from scratch how ABC classes , Subclasses are built in real world frameworks/elsewhere, that abc can also store concretemethods not only abc, but dependent on abc methods.
+2. Got up late, was distracted my background music , during sessions
+3. finished at planned time, good point to refactor parser , before refactoring launcher`s logic
