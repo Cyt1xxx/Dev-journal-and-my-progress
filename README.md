@@ -364,3 +364,8 @@ rainforced the info I learnt yesterday about sets. Don't likt the architectur fo
 1. Implemented redis caching into the project (get, set, sadd, sismember, incr) following redis-py lib, made tests for them, refactored after, got familiar with the fakeredis lib , how to test with it. Began refactoring parser module , more clean core's required here and deffensive programming. Read through fluent python book, understood from scratch how ABC classes , Subclasses are built in real world frameworks/elsewhere, that abc can also store concretemethods not only abc, but dependent on abc methods.
 2. Got up late, was distracted my background music , during sessions
 3. finished at planned time, good point to refactor parser , before refactoring launcher`s logic
+
+07.01.2026(4h)
+1. Was refactoring main parser module, has refactored 2 methods + funcs related to datetime validation + tests for it. Read about virtual subclassing , __subclasshook__ , how can a class pass isintance , issubclass checks only by implementing a special method.
+2. Well, didn't code enough. Slept a lot and cooked for 1-1.5h
+3. Less than the common day
