@@ -369,3 +369,8 @@ rainforced the info I learnt yesterday about sets. Don't likt the architectur fo
 1. Was refactoring main parser module, has refactored 2 methods + funcs related to datetime validation + tests for it. Read about virtual subclassing , __subclasshook__ , how can a class pass isintance , issubclass checks only by implementing a special method.
 2. Well, didn't code enough. Slept a lot and cooked for 1-1.5h
 3. Less than the common day
+
+08.01.2026-09.01.2026(7-8h overall)
+1. Mostly did testing logic and finished refactoring the main parser module. It was kind of tedeous, I even egaged Ai into writing fixtures, but it was a demo variant, however, all the logic I've written by myself, in next time I will just download HTML's and do it without any fixture approach, some lifehacks , y'know. Getting closer to main launcher logic + deplpoyment.
+2. I missed a whole day on 09.01 , but forced myself to code at least 2-3 hours,I coped and I could include more reading into previous day.
+3. Done boring , but not the least important part
