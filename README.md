@@ -374,3 +374,10 @@ rainforced the info I learnt yesterday about sets. Don't likt the architectur fo
 1. Mostly did testing logic and finished refactoring the main parser module. It was kind of tedeous, I even egaged Ai into writing fixtures, but it was a demo variant, however, all the logic I've written by myself, in next time I will just download HTML's and do it without any fixture approach, some lifehacks , y'know. Getting closer to main launcher logic + deplpoyment.
 2. I missed a whole day on 09.01 , but forced myself to code at least 2-3 hours,I coped and I could include more reading into previous day.
 3. Done boring , but not the least important part
+
+10.01.26(day off)
+
+11.01.26(5h)
+1. Transitioned from pip to uv, explored it's main features, implemented it into my project. Started building MVP for project's API. Chose preferrably FastAPI , explored it. Created app layer inside my app, started by building schemas, routers. Explained an architecture.
+2. Can do more programming hours, didn't read the book
+3. Did math, german, maid a huge inside of the architecture, need to learn more about FastAPI concepts
