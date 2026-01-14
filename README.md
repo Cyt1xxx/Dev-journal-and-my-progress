@@ -381,3 +381,8 @@ rainforced the info I learnt yesterday about sets. Don't likt the architectur fo
 1. Transitioned from pip to uv, explored it's main features, implemented it into my project. Started building MVP for project's API. Chose preferrably FastAPI , explored it. Created app layer inside my app, started by building schemas, routers. Explained an architecture.
 2. Can do more programming hours, didn't read the book
 3. Did math, german, maid a huge inside of the architecture, need to learn more about FastAPI concepts
+
+12-14(18 h overall, 6-7h per day)
+1. Fixed launcher class for a single website, made deduplication logic + filtering implentation, created schemas and routers for scraping needs. Learned about how to manage background tasks in real-world app, choose arq + redis approach instead of celery + redis/rabbitmq , as my project is fully asynchronous and I don't need a sophisticated broker right now. Refactored some other modules. Started reading about static typing chapter in the fluent python
+2. haven't read for first 2 days fluent python book, listend to music sometimes while coding
+3. about achievements, understood a lot of concepts about APIs creation and how to manage data in real-world app, still figuring it out.
