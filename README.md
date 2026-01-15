@@ -386,3 +386,8 @@ rainforced the info I learnt yesterday about sets. Don't likt the architectur fo
 1. Fixed launcher class for a single website, made deduplication logic + filtering implentation, created schemas and routers for scraping needs. Learned about how to manage background tasks in real-world app, choose arq + redis approach instead of celery + redis/rabbitmq , as my project is fully asynchronous and I don't need a sophisticated broker right now. Refactored some other modules. Started reading about static typing chapter in the fluent python
 2. haven't read for first 2 days fluent python book, listend to music sometimes while coding
 3. about achievements, understood a lot of concepts about APIs creation and how to manage data in real-world app, still figuring it out.
+
+15.01.26(5.5h)
+1. Understood how to use queues , job, worker (through workersettings) in ARQ lib, implemented a sollution, refactored a bit rest of the code, changed repo architecture. For most time was thinking how to implement output of scraping results, came to a decision to use more redis for it + make GET endpoint only do queries and invented some optimizations , only need to be done in the code part
+2. Day was hard, most of the day I was thinking about an architecture with Ai , but the final word was mine ofc. More thoughts , than code, could make a solution
+3. I have a plan what to do, only actions are required
