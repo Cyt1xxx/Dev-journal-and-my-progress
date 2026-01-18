@@ -391,3 +391,12 @@ rainforced the info I learnt yesterday about sets. Don't likt the architectur fo
 1. Understood how to use queues , job, worker (through workersettings) in ARQ lib, implemented a sollution, refactored a bit rest of the code, changed repo architecture. For most time was thinking how to implement output of scraping results, came to a decision to use more redis for it + make GET endpoint only do queries and invented some optimizations , only need to be done in the code part
 2. Day was hard, most of the day I was thinking about an architecture with Ai , but the final word was mine ofc. More thoughts , than code, could make a solution
 3. I have a plan what to do, only actions are required
+
+16.01.26 (has installed linux distro fedora , was configuring it)
+
+17.01.26(day off)
+
+18.01.26(3h)
+1. Was configuring my VS dev python enviroment, investigated a tool "Ruff" , successfully installed it and integrated into env. , went through it's features, started using them in my code, was getting familiar with linux funcs, did light coding
+2. Nothing to mention
+3. Deleted all Ai tools , now I only rely on myself, docs and human's info-sources, enjoying the process, not a result
